@@ -1,10 +1,3 @@
-//
-//  Machine.hpp
-//  cs140_proj4
-//
-//  Created by Jun on 5/27/19.
-//  Copyright © 2019 CSCI40. All rights reserved.
-//
 
 #ifndef Machine_hpp
 #define Machine_hpp
