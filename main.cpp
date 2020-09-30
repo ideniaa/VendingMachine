@@ -1,10 +1,4 @@
-//
-//  main.cpp
-//  cs140_proj4
-//
-//  Created by Jun on 5/18/19.
-//  Copyright © 2019 CSCI40. All rights reserved.
-//
+
 #include "Machine.hpp"
 #include "MachineB.hpp"
 #include "MachineA.hpp"
